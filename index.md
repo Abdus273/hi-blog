@@ -3,9 +3,6 @@ layout: default
 ---
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
  
