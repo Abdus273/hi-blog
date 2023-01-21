@@ -2,10 +2,16 @@
 layout: default
 ---
 
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
+### Large image
+
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
+
+
  
 The digital disruption of the sector has been one of the biggest changes in healthcare during the past ten years. This shift has led to the widespread storage, sharing, access, analysis, and use of health data across a wide range of digital platforms, including wearable technology, smartphone apps, and medical equipment. Big data banks may include hospital records, patient’s medical records, medical examinations, and hardware data from IOT (internet of things) devices which are built with the aim to improve upon or further elevate the services provided by the health care industry. These electronic health data sets are so enormously big and complicated that they are not only challenging to handle with conventional software or hardware, but also are not manageable using conventional or industry-grade specialized data management tools and procedures. However, with the aid of modern technology, we can produce a lot of data, even to the point where it is now overwhelming. For all the pros that Big Data may bask in, it comes with its own set of cons, but with proper observation and application, we can outweigh the cons and Big Data can indisputably improve the health and medicine sector.
 
-### Processing of Big data Analytics
+##### Processing of Big data Analytics
 Figure 1: Data warehouses hold enormous volumes of data that are produced from multiple resources. In order to produce more effective, innovative, and reasonably priced healthcare choices, these data sets are processed using analytic pipelines (Descriptive, Diagnostic, Predictive, Prescriptive).
 
 ## How Big Data is related with health industry
@@ -18,7 +24,7 @@ Big Data has a wide variety of possible advantages. We can identify diseases ear
 
 Furthermore, big data has also made it possible for doctors to monitor and consult with patients virtually, reducing the need for in-person exams and desk work. Additionally, it is simple for healthcare professionals to access patient records with a single click, which improves system efficiency and saves time. This is what makes the patient experience better overall. On top of that, big data can also be used in the healthcare industry to link many disciplines and conduct in-depth research on a disease. Additionally, data from various experiments are needed in biomedical research labs or facilities to comprehend the biological processes. In order to continue providing patients with new, life-improving medications in a timely manner, pharmaceutical companies can improve their capacity for pharmaceutical analytics. Additionally, by managing the big data that was produced throughout all stages of pharmaceutical development, the price of pharmaceutical products will be customer friendly.
 
-## Data driven applications and devices in healthcare
+## Data Driven Applications and Devices in Healthcare
 There are a lot of applications, software and devices that are used to extract data.
 •Fitbit: It enables users to keep eyes on their heart rate and track their physical activities.  
 •ECG devices: Assist users in keeping track of their pulse rate, heart rate variability, breathing rate, temperature, and activity.
