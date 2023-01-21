@@ -1,19 +1,22 @@
 ---
 layout: default
+title:  "Big Data in Healthcare Arena"
 ---
 
 ![Branching](./Assets/hero-big-data.jpg)
 
 The digital disruption of the sector has been one of the biggest changes in healthcare during the past ten years. This shift has led to the widespread storage, sharing, access, analysis, and use of health data across a wide range of digital platforms, including wearable technology, smartphone apps, and medical equipment. Big data banks may include hospital records, patient’s medical records, medical examinations, and hardware data from IOT (internet of things) devices which are built with the aim to improve upon or further elevate the services provided by the health care industry. These electronic health data sets are so enormously big and complicated that they are not only challenging to handle with conventional software or hardware, but also are not manageable using conventional or industry-grade specialized data management tools and procedures. However, with the aid of modern technology, we can produce a lot of data, even to the point where it is now overwhelming. For all the pros that Big Data may bask in, it comes with its own set of cons, but with proper observation and application, we can outweigh the cons and Big Data can indisputably improve the health and medicine sector.
 
-##### Processing of Big data Analytics
-Figure 1: Data warehouses hold enormous volumes of data that are produced from multiple resources. In order to produce more effective, innovative, and reasonably priced healthcare choices, these data sets are processed using analytic pipelines (Descriptive, Diagnostic, Predictive, Prescriptive).
+![Branching](./Assets/image-2.png)
+fig:- Processing of Big data Analytics
+Data warehouses hold enormous volumes of data that are produced from multiple resources. In order to produce more effective, innovative, and reasonably priced healthcare choices, these data sets are processed using analytic pipelines (Descriptive, Diagnostic, Predictive, Prescriptive).
 
 ## How Big Data is related with health industry
 In hospitals or clinics, medical personnel treat patients after reviewing the patient's medical history (information linked to diagnoses and prescriptions), medical and clinical data (such as information from imaging and lab results), and other private or confidential medical information. These reports were previously completed using a paper file system or handwritten notes. It used to take a lot of time to carry and manage all of these paper works, not to mention potential pitfalls like patients who wouldn't report in public. However, the digitalization of all clinical exams and medical records in healthcare systems has now become a regular and widely used practice thanks to the development of computer systems and its capabilities. Patients gain from it since they now enjoy the privacy to fill out forms as they wish from the comfort of their homes.
 
 
 ## Benefits of Big Data in Healthcare
+![Branching](./Assets/image-3.jpg.jpg)
  
 Big Data has a wide variety of possible advantages. We can identify diseases early thanks to it, first of all. In order to provide a more precise picture of how cancer may evolve in the future, for instance, genomic data is helpful. The fact that a disease can be treated more quickly and successfully if it is discovered early is another argument in its favor. Second, it can save costs and waste. According to McKinsey, big data analytics can enable savings in U.S. healthcare of more than $300 billion annually, or around $920 per person. Using smart technologies and data analytics, clinicians can more easily identify patients who are prone to acquire a particular ailment, stop the disease from becoming worse, and predict epidemics before they start. This reduces the tedious work and mistake involved with manual data handling. Predictive modeling algorithms are a good example of this because they are used to predict the potential spread of viruses to prevent epidemics or to diagnose diseases like diabetes at a very early stage. 
 
@@ -28,7 +31,8 @@ There are a lot of applications, software and devices that are used to extract d
 •Hadoop: Data sets can now be used by researchers because of Hadoop. Large datasets are processed and created using the MapReduce algorithm, which is implemented by Hadoop
 •OCR:  Optical Character Recognition is such a software that promotes digitization and can read both handwriting and computer fonts.
 •Image Analytics: Visualization Toolkit is a well-liked piece of free software for the effective processing and analysis of 3D images from medical examinations. Another one is called SPM, and it has the ability to process and examine 5 different kinds of brain pictures (e.g., MRI, fMRI, PET, CT-Scan and EEG)
- 
+
+![Branching](./Assets/image-4.jpg) 
 Figure 2: Applications and analytics for big data are expected to increase from $5.3 billion in 2018 to $19.4 billion in 2026, growing at a CAGR of 15.49%. From $16.5 billion in 2018 to $21.3 billion in 2026, the global market for big data, which includes professional services, is expected to rise.
 
 ## Risks and limitations of Big Data in healthcare
