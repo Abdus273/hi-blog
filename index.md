@@ -16,7 +16,7 @@ In hospitals or clinics, medical personnel treat patients after reviewing the pa
 
 
 ## Benefits of Big Data in Healthcare
-![Branching](./Assets/image-3.jpg.jpg)
+![Branching](./Assets/image-3.jpg)
  
 Big Data has a wide variety of possible advantages. We can identify diseases early thanks to it, first of all. In order to provide a more precise picture of how cancer may evolve in the future, for instance, genomic data is helpful. The fact that a disease can be treated more quickly and successfully if it is discovered early is another argument in its favor. Second, it can save costs and waste. According to McKinsey, big data analytics can enable savings in U.S. healthcare of more than $300 billion annually, or around $920 per person. Using smart technologies and data analytics, clinicians can more easily identify patients who are prone to acquire a particular ailment, stop the disease from becoming worse, and predict epidemics before they start. This reduces the tedious work and mistake involved with manual data handling. Predictive modeling algorithms are a good example of this because they are used to predict the potential spread of viruses to prevent epidemics or to diagnose diseases like diabetes at a very early stage. 
 
