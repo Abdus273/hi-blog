@@ -27,7 +27,7 @@ There are a lot of applications, software and devices that are used to extract d
 •ECG devices: Assist users in keeping track of their pulse rate, heart rate variability, breathing rate, temperature, and activity.
 •Blood pressure monitors: These monitors make use of oscillometer technology to measure blood pressure.
 •Electric Health Records (EHRs): It offers a wide range of information that supports advanced analytics and improves in clinical decision-making.
-•Hadoop: Data sets can now be used by researchers because of Hadoop. Large datasets are processed and created using the MapReduce algorithm, which is implemented by Hadoop.
+•Hadoop: Data sets can now be used by researchers because of Hadoop. Large datasets are processed and created using the MapReduce algorithm, which is implemented by Hadoop
 •OCR:  Optical Character Recognition is such a software that promotes digitization and can read both handwriting and computer fonts.
 •Image Analytics: Visualization Toolkit is a well-liked piece of free software for the effective processing and analysis of 3D images from medical examinations. Another one is called SPM, and it has the ability to process and examine 5 different kinds of brain pictures (e.g., MRI, fMRI, PET, CT-Scan and EEG)
  
