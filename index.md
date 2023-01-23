@@ -2,6 +2,7 @@
 layout: default
 title:  "Big Data in Healthcare Arena"
 ---
+# Big Data in Healthcare Arena
 
 ![Branching](./Assets/hero-big-data.jpg)
 
