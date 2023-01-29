@@ -1,3 +1,4 @@
+# Big Data in Healthcare Arena
 
 ![Branching](./Assets/hero-big-data.jpg)
 
@@ -7,7 +8,7 @@ These electronic health data sets are so enormously big and complicated that the
 
 However, with the aid of modern technology, we can produce a lot of data, even to the point where it is now overwhelming. For all the pros that Big Data may bask in, it comes with its own set of cons, but with proper observation and application, we can outweigh the cons and Big Data can indisputably improve the health and medicine sector.
 
-![Branching](./Assets/image-2.png)
+![Screenshot](./Assets/image-2.png)
 
 Fig:- Processing of Big data Analytics
 
@@ -19,7 +20,7 @@ In hospitals or clinics, medical personnel treat patients after reviewing the pa
 
 ## Benefits of Big Data in Healthcare
 
-![Branching](./Assets/image-3.jpg)
+![Screenshot](./Assets/image-3.jpg)
  
 Big Data has a wide variety of possible advantages. We can identify diseases early thanks to it, first of all. In order to provide a more precise picture of how cancer may evolve in the future, for instance, genomic data is helpful. The fact that a disease can be treated more quickly and successfully if it is discovered early is another argument in its favor. Second, it can save costs and waste. 
 
@@ -31,15 +32,15 @@ Additionally, data from various experiments are needed in biomedical research la
 
 ## Data Driven Applications and Devices in Healthcare
 There are a lot of applications, software and devices that are used to extract data.
-•Fitbit: It enables users to keep eyes on their heart rate and track their physical activities.
-•ECG devices: Assist users in keeping track of their pulse rate, heart rate variability, breathing rate, temperature, and activity.
-•Blood pressure monitors: These monitors make use of oscillometer technology to measure blood pressure.
-•Electric Health Records (EHRs): It offers a wide range of information that supports advanced analytics and improves in clinical decision-making.
-•Hadoop: Data sets can now be used by researchers because of Hadoop. Large datasets are processed and created using the MapReduce algorithm, which is implemented by Hadoop
-•OCR: Optical Character Recognition is such a software that promotes digitization and can read both handwriting and computer fonts.
-•Image Analytics: Visualization Toolkit is a well-liked piece of free software for the effective processing and analysis of 3D images from medical examinations. Another one is called SPM, and it has the ability to process and examine 5 different kinds of brain pictures (e.g., MRI, fMRI, PET, CT-Scan and EEG)
+* Fitbit: It enables users to keep eyes on their heart rate and track their physical activities.
+* ECG devices: Assist users in keeping track of their pulse rate, heart rate variability, breathing rate, temperature, and activity.
+* Blood pressure monitors: These monitors make use of oscillometer technology to measure blood pressure.
+* Electric Health Records (EHRs): It offers a wide range of information that supports advanced analytics and improves in clinical decision-making.
+* Hadoop: Data sets can now be used by researchers because of Hadoop. Large datasets are processed and created using the MapReduce algorithm, which is implemented by Hadoop
+* OCR: Optical Character Recognition is such a software that promotes digitization and can read both handwriting and computer fonts.
+* Image Analytics: Visualization Toolkit is a well-liked piece of free software for the effective processing and analysis of 3D images from medical examinations. Another one is called SPM, and it has the ability to process and examine 5 different kinds of brain pictures (e.g., MRI, fMRI, PET, CT-Scan and EEG)
 
-![Branching](./Assets/image-4.jpg) 
+![Screenshot](./Assets/image-4.jpg) 
 
 Figure 2: Applications and analytics for big data are expected to increase from $5.3 billion in 2018 to $19.4 billion in 2026, growing at a CAGR of 15.49%. From $16.5 billion in 2018 to $21.3 billion in 2026, the global market for big data, which includes professional services, is expected to rise.
 
@@ -62,10 +63,10 @@ Considering how fast and simple the healthcare system has become, big data has t
 * What is Big Data in health industry https://link.springer.com/article/10.1186/2047-2501-2-3
 * Figure 1: Processing of Big data Analytics https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0217-0#Fig1
 * Benefits of Big Data and how it is liked with healthcare industry https://www.coursera.org/articles/big-data-in-healthcare
-* https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0217-0#Fig1
-* Data driven applications and devices in healthcare https://www.impactmybiz.com/blog/big-data-healthcare-explained/
-* https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0217-0#Fig1
-* Figure :2 https://wikibon.com……..
-* https://www.statista.com/statistics/255970/global-big-data-market-forecast-by-segment/limitations of Big Data in healthcare 
+* https://www.statista.com/statistics/255970/global-big-data-market-forecast-by-segment/limitations-of-Big-Data-in-healthcare 
 * https://www.impactmybiz.com/blog/big-data-healthcare-explained/
 * https://www.businesscompilerng.com/2022/05/big-data-analytics-in-healthcare.html#:~:text=One%20of%20the%20major%20drawbacks,the%20dashboard%20and%20the%20reports
+
+### Something About Myself
+Hello! I'm Abdus Salam. I'm a student currently studying Health Informatics in Deggendorf Institute of Technology. I love cycling, reading books, and sometimes writing. 
+Matriculation Number: 22209351

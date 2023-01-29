@@ -71,6 +71,10 @@ Considering how fast and simple the healthcare system has become, big data has t
 * https://www.impactmybiz.com/blog/big-data-healthcare-explained/
 * https://www.businesscompilerng.com/2022/05/big-data-analytics-in-healthcare.html#:~:text=One%20of%20the%20major%20drawbacks,the%20dashboard%20and%20the%20reports
 
+### Something About Myself
+Hello! I'm Abdus Salam. I'm a student currently studying Health Informatics in Deggendorf Institute of Technology. I love cycling, reading books, and sometimes writing. 
+Matriculation Number: 22209351
+
 
 
 
