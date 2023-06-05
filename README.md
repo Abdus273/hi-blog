@@ -2,7 +2,7 @@
 
 ![Branching](./Assets/hero-big-data.jpg)
 
-The digital disruption of the sector has been one of the biggest changes in healthcare during the past ten years. This shift has led to the widespread storage, sharing, access, analysis, and use of health data across a wide range of digital platforms, including wearable technology, smartphone apps, and medical equipment. Big data banks may include hospital records, patient’s medical records, medical examinations, and hardware data from IOT (internet of things) devices which are built with the aim to improve upon or further elevate the services provided by the health care industry. 
+The digital disruption of the sector has been one of the biggest changes in healthcare during the past ten years. This shift has led to the widespread storage, sharing, access, analysis, and use of health data across a wide range of digital platforms, including wearable technology, smartphone apps, and medical equipment. Big data banks may include hospital records, patient’s medical records, medical examinations, and hardware data from IOT (internet of things) devices which are built with the aim to improve upon or further elevate services provided by the health care industry. 
 
 These electronic health data sets are so enormously big and complicated that they are not only challenging to handle with conventional software or hardware, but also are not manageable using conventional or industry-grade specialized data management tools and procedures. 
 
